@@ -1,20 +1,3 @@
-// /*jshint esversion: 6*/
-// var calculette = (function(){
-//   var res = document.getElementById('result');
-//
-//   const add = function add(){
-//     var toto = document.getElementById('n1').value;
-//     var titi = document.getElementById('n2').value;
-//     console.log(toto);
-//     var sum = parseInt(toto) + parseInt(titi);
-//     res.value = sum;
-//   };
-//
-// window.onload = function(){
-// var plus = document.getElementById('plus');
-// plus.onclick= add;
-// };
-// }());
 /*jshint esversion: 6*/
 
 function calc() {
